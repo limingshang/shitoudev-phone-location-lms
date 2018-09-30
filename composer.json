@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Shitoudev\\Phone\\": "src/"
+            "Shitoudevlms\\Phone\\": "src/"
         }
     },
     "require-dev": {
