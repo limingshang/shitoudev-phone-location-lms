@@ -5,7 +5,7 @@
 * 数据文件格式参考：https://github.com/lovedboy/phone
 */
 
-namespace shitoudevlms\Phone;
+namespace Shitoudevlms\Phone;
 
 class PhoneLocation
 {
